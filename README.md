@@ -18,13 +18,6 @@ A modern and responsive Calculator Application built using HTML, CSS, and JavaSc
 * CSS3
 * JavaScript (ES6)
 
-## 📸 Project Preview
-
-Add a screenshot of your calculator here.
-
-```md
-![Calculator Preview](screenshot.png)
-```
 
 ## 🌐 Live Demo
 
