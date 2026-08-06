@@ -21,7 +21,7 @@ A modern and responsive Calculator Application built using HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-https://rashika-06.github.io/calculator/
+https://calculator-606.netlify.app/
 
 ## 📂 GitHub Repository
 
