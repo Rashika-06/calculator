@@ -66,3 +66,4 @@ Developed as part of an Internship Task.
 ## 📜 License
 
 This project is open-source and available for learning and educational purposes.
+
